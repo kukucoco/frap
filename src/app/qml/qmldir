@@ -1,0 +1,12 @@
+module Frap
+singleton Theme 1.0 Theme.qml
+CaptureController 1.0 CaptureController.qml
+ToolButton 1.0 ToolButton.qml
+FloatingToolBar 1.0 FloatingToolBar.qml
+OptionsBar 1.0 OptionsBar.qml
+CropOverlay 1.0 CropOverlay.qml
+AnnotationOutline 1.0 AnnotationOutline.qml
+Magnifier 1.0 Magnifier.qml
+Readout 1.0 Readout.qml
+Toast 1.0 Toast.qml
+TranslationPanel 1.0 TranslationPanel.qml

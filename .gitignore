@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*.o
+*.so
+*.dll
+*.dylib
+
+# Qt
+*.moc
+*.moc.*
+*_autogen/
+
+# 用户本地配置
+settings.json
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
